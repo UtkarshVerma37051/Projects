@@ -1,0 +1,15 @@
+[submodule "Bash/GuessTheNumber"]
+	path = Bash/GuessTheNumber
+	url = https://github.com/UtkarshVerma37051/GuessTheNumber.git
+[submodule "C/School-Management-System"]
+	path = C/School-Management-System
+	url = https://github.com/UtkarshVerma37051/School-Management-System.git
+[submodule "C/Customer-Billing-System"]
+	path = C/Customer-Billing-System
+	url = https://github.com/UtkarshVerma37051/Customer-Billing-System.git
+[submodule "C++/Medical-Store-Management"]
+	path = C++/Medical-Store-Management
+	url = https://github.com/UtkarshVerma37051/Medical-Store-Management.git
+[submodule "Verilog/Calculator"]
+	path = Verilog/Calculator
+	url = https://github.com/UtkarshVerma37051/Calculator.git
