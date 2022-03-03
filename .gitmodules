@@ -13,3 +13,6 @@
 [submodule "Verilog/Calculator"]
 	path = Verilog/Calculator
 	url = https://github.com/UtkarshVerma37051/Calculator.git
+[submodule "Bash/Password-Manager"]
+	path = Bash/Password-Manager
+	url = https://github.com/UtkarshVerma37051/Password-Manager.git
